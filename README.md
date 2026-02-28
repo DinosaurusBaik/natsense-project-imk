@@ -34,12 +34,12 @@ Supporting SDGs 13.3
 | 1 | Day 1 | Diskusi konsep dan scope aplikasi | Semua | Finalisasi ide proyek |
 | 2 | Day 2 | Penyusunan Overview & Design Principle | Product Owner | Draft dokumen konsep |
 | 3 | Day 3 | Setup project Unity & repository | Unity Dev | Project base siap |
-| 4 | Day 4 | Integrasi AR Foundation | Unity Dev | AR environment aktif |
-| 5 | Day 5 | Desain UI awal (mode selection) | Designer | Wireframe selesai |
-| 6 | Day 6 | Implementasi kategori risiko statis | Unity Dev | Sistem kategori aktif |
-| 7 | Day 7 | Pembuatan model 3D banjir | Designer | Asset awal banjir |
-| 8 | Day 8 | Integrasi model 3D ke AR | Unity Dev  | Simulasi tampil |
-| 9 | Day 9 | Implementasi logika dampak bertahap | Unity Dev  | Dampak sesuai kategori |
+| 4 | Day 4 | Integrasi AR Foundation | AR Dev | AR environment aktif |
+| 5 | Day 5 | Desain UI awal (mode selection) | UI/UX | Wireframe selesai |
+| 6 | Day 6 | Implementasi kategori risiko statis | Programmer | Sistem kategori aktif |
+| 7 | Day 7 | Pembuatan model 3D banjir | 3D Artist | Asset awal banjir |
+| 8 | Day 8 | Integrasi model 3D ke AR | AR Dev | Simulasi tampil |
+| 9 | Day 9 | Implementasi logika dampak bertahap | Programmer | Dampak sesuai kategori |
 | 10 | Day 10 | Testing internal & debugging | Semua | Prototype stabil |
 
 ---
