@@ -1,98 +1,91 @@
-# 🌀 SCRUM DOCUMENTATION  
-## Project: NastSense  
-Augmented Reality Climate Simulation Application  
-Supporting SDGs 13.3 – Climate Education & Awareness  
+# 🌀 SCRUM EXECUTION PLAN – NASTSENSE
+Team Size: 5 People  
+1 Scrum Master  
+2 Designer  
+2 Unity Engineer  
 
 ---
 
-# 📌 Project Overview
+# 👥 TEAM STRUCTURE
 
-NastSense adalah aplikasi simulasi dan animasi bencana alam berbasis Augmented Reality yang bertujuan meningkatkan pemahaman dan kewaspadaan terhadap perubahan iklim melalui visualisasi sebab-akibat yang terstruktur.
-
----
-
-# 👥 Scrum Roles
-
-| Role | Responsibility |
-|------|---------------|
-| Product Owner | Menentukan visi produk dan prioritas fitur |
-| Scrum Master | Mengelola proses Scrum dan mengatasi hambatan |
-| Development Team | Mengembangkan fitur AR, simulasi, UI, dan evaluasi |
+| Role | Jumlah | Tanggung Jawab Utama |
+|------|--------|---------------------|
+| Scrum Master | 1 | Koordinasi sprint, monitoring progres, dokumentasi |
+| Designer | 2 | UI/UX design, asset visual, storyboard, flow |
+| Unity Engineer | 2 | Implementasi sistem, AR integration, logic, testing |
 
 ---
 
-# 🌀 SCRUM PLANNING – NASTSENSE
-Augmented Reality Climate Simulation Application  
-Supporting SDGs 13.3
+# 📅 PEMBAGIAN TUGAS – 2 MINGGU PERTAMA
+
+## 🔹 MINGGU 1 – FUNDAMENTAL & DESIGN FOUNDATION
+
+Fokus: Konsep matang dan fondasi teknis siap
+
+| Role | Tugas | Output | Alasan Rasional |
+|------|--------|--------|----------------|
+| Scrum Master | Finalisasi backlog, sprint planning, timeline | Sprint backlog jelas | Agar tim tidak bekerja tanpa arah |
+| Designer 1 | User flow & wireframe | Struktur alur aplikasi | Developer butuh acuan UI |
+| Designer 2 | Storyboard simulasi banjir | Visual dampak bertahap | Dasar implementasi animasi |
+| Unity Engineer 1 | Setup Unity project & repository | Project siap dikembangkan | Fondasi teknis wajib ada lebih dulu |
+| Unity Engineer 2 | Integrasi AR Foundation | AR environment aktif | Core teknologi aplikasi |
 
 ---
 
-# 📋 1️⃣ LOG TUGAS (2 MINGGU PERTAMA)
+## 🔹 MINGGU 2 – IMPLEMENTASI SIMULASI PERTAMA
 
-| No | Tanggal | Aktivitas | PIC | Output |
-|----|----------|----------|------|--------|
-| 1 | Day 1 | Diskusi konsep dan scope aplikasi | Semua | Finalisasi ide proyek |
-| 2 | Day 2 | Penyusunan Overview & Design Principle | Product Owner | Draft dokumen konsep |
-| 3 | Day 3 | Setup project Unity & repository | Unity Dev | Project base siap |
-| 4 | Day 4 | Integrasi AR Foundation | AR Dev | AR environment aktif |
-| 5 | Day 5 | Desain UI awal (mode selection) | UI/UX | Wireframe selesai |
-| 6 | Day 6 | Implementasi kategori risiko statis | Programmer | Sistem kategori aktif |
-| 7 | Day 7 | Pembuatan model 3D banjir | 3D Artist | Asset awal banjir |
-| 8 | Day 8 | Integrasi model 3D ke AR | AR Dev | Simulasi tampil |
-| 9 | Day 9 | Implementasi logika dampak bertahap | Programmer | Dampak sesuai kategori |
-| 10 | Day 10 | Testing internal & debugging | Semua | Prototype stabil |
+Fokus: Simulasi banjir berbasis AR berjalan
+
+| Role | Tugas | Output | Alasan Rasional |
+|------|--------|--------|----------------|
+| Scrum Master | Monitoring progres, daily sync, dokumentasi | Tracking progres jelas | Menghindari keterlambatan |
+| Designer 1 | Final UI visual design | Asset UI siap pakai | Developer bisa langsung implement |
+| Designer 2 | Model 3D lingkungan pesisir | Asset simulasi | Visual inti aplikasi |
+| Unity Engineer 1 | Implementasi kategori risiko (Rendah, Sedang, Tinggi) | Sistem kategori aktif | Mekanisme utama simulasi |
+| Unity Engineer 2 | Integrasi model 3D ke AR + dampak bertahap | Simulasi berjalan | Prototype siap diuji |
 
 ---
 
-# 👥 2️⃣ PEMBAGIAN TUGAS PER MINGGU (RASIONAL)
+# 📊 LOG TUGAS 2 MINGGU
 
-## Minggu 1 – Fondasi Sistem
-
-| Role | Tugas | Alasan |
-|------|--------|--------|
-| Product Owner | Finalisasi konsep & backlog | Menentukan arah pengembangan |
-| Unity Dev | Setup project & struktur scene | Fondasi teknis wajib ada lebih dulu |
-| AR Dev | Integrasi AR Foundation | Core sistem aplikasi |
-| UI/UX | Wireframe & flow aplikasi | Menentukan alur interaksi |
-| 3D Artist | Draft model banjir | Skenario pertama diprioritaskan |
-
-## Minggu 2 – Implementasi Simulasi
-
-| Role | Tugas | Alasan |
-|------|--------|--------|
-| Programmer | Implementasi kategori risiko | Sistem utama simulasi |
-| AR Dev | Integrasi asset ke AR | Visualisasi harus aktif |
-| 3D Artist | Refinement asset | Kualitas visual ditingkatkan |
-| UI/UX | Implementasi UI ke Unity | Tampilan siap digunakan |
-| Semua | Testing & debugging | Menjamin prototype stabil |
+| Minggu | Fokus | Status Target |
+|--------|--------|--------------|
+| Week 1 | Konsep & AR Setup | Project siap dikembangkan |
+| Week 2 | Simulasi Banjir Aktif | Prototype AR berjalan |
 
 ---
 
-# 📅 3️⃣ PERENCANAAN MINGGU DEPAN (MINGGU KE-3)
+# 🔄 SPRINT STRUCTURE (PER 2 MINGGU)
 
-| Fokus | Detail Pekerjaan | Target Output |
-|--------|------------------|---------------|
-| Mode Edukasi | Implementasi tutorial | Alur pembelajaran aktif |
-| Post Test | Sistem soal & penilaian | Evaluasi berjalan |
-| Feedback System | Penjelasan dampak & solusi | Edukasi lebih terstruktur |
-| Tambahan Skenario | Draft simulasi kekeringan | Asset awal siap |
-| UI Refinement | Perbaikan layout | Tampilan lebih rapi |
-
----
-
-# 🔄 4️⃣ SPRINT (PER 2 MINGGU)
-
-## Sprint 1 (Week 1–2)
+## 🟢 Sprint 1 (Week 1–2)
 **Goal:** Prototype AR Simulation  
-**Output:**  
-- Simulasi banjir berbasis AR  
-- Sistem kategori risiko  
-- UI dasar pemilihan mode  
 
-## Sprint 2 (Week 3–4)
-**Goal:** Mode Edukasi Aktif  
-**Output:**  
-- Tutorial berjalan  
-- Post test aktif  
-- Sistem feedback edukatif  
-- Tambahan skenario kekeringan  
+Deliverables:
+- Unity project setup
+- AR Foundation aktif
+- UI dasar
+- Simulasi banjir dengan 3 kategori risiko
+
+---
+
+## 🟡 Sprint 2 (Week 3–4)
+**Goal:** Mode Edukasi  
+
+Deliverables:
+- Sistem tutorial
+- Post test
+- Feedback edukatif
+- Refinement visual
+- Stabilitas sistem
+
+---
+
+# 📌 PERENCANAAN MINGGU DEPAN (WEEK 3)
+
+| Fokus | Tugas | PIC |
+|--------|--------|------|
+| Mode Edukasi | Implementasi tutorial scene | Unity Engineer |
+| Post Test | Sistem soal & penilaian | Unity Engineer |
+| UI Refinement | Finalisasi layout | Designer |
+| Asset Tambahan | Draft simulasi kekeringan | Designer |
+| Koordinasi | Evaluasi sprint & update backlog | Scrum Master |
