@@ -20,37 +20,29 @@ Team Size: 5 People
 
 ## 🔹 MINGGU 1 – FUNDAMENTAL & DESIGN FOUNDATION
 
-Fokus: Konsep matang dan fondasi teknis siap
+# 📋 Product Backlog
 
-| Role | Tugas | Output | Alasan Rasional |
-|------|--------|--------|----------------|
-| Scrum Master | Finalisasi backlog, sprint planning, timeline | Sprint backlog jelas | Agar tim tidak bekerja tanpa arah |
-| Designer 1 | User flow & wireframe | Struktur alur aplikasi | Developer butuh acuan UI |
-| Designer 2 | Storyboard simulasi banjir | Visual dampak bertahap | Dasar implementasi animasi |
-| Unity Engineer 1 | Setup Unity project & repository | Project siap dikembangkan | Fondasi teknis wajib ada lebih dulu |
-| Unity Engineer 2 | Integrasi AR Foundation | AR environment aktif | Core teknologi aplikasi |
-
----
-
-## 🔹 MINGGU 2 – IMPLEMENTASI SIMULASI PERTAMA
-
-Fokus: Simulasi banjir berbasis AR berjalan
-
-| Role | Tugas | Output | Alasan Rasional |
-|------|--------|--------|----------------|
-| Scrum Master | Monitoring progres, daily sync, dokumentasi | Tracking progres jelas | Menghindari keterlambatan |
-| Designer 1 | Final UI visual design | Asset UI siap pakai | Developer bisa langsung implement |
-| Designer 2 | Model 3D lingkungan pesisir | Asset simulasi | Visual inti aplikasi |
-| Unity Engineer 1 | Implementasi kategori risiko (Rendah, Sedang, Tinggi) | Sistem kategori aktif | Mekanisme utama simulasi |
-| Unity Engineer 2 | Integrasi model 3D ke AR + dampak bertahap | Simulasi berjalan | Prototype siap diuji |
+| ID | Backlog Item | Priority | Status |
+|----|--------------|----------|--------|
+| PB-01 | Mode Edukasi | High | Pending |
+| PB-02 | Mode Free for All | High | Pending |
+| PB-03 | Sistem Kategori Risiko | High | Pending |
+| PB-04 | Simulasi Banjir (AR) | High | Pending |
+| PB-05 | Simulasi Kekeringan | Medium | Pending |
+| PB-06 | Simulasi Kebakaran Hutan | Medium | Pending |
+| PB-07 | Post Test | High | Pending |
+| PB-08 | Sistem Penilaian & Feedback | High | Pending |
+| PB-09 | Scoreboard | Medium | Pending |
+| PB-10 | UI & UX Design | High | Pending |
+| PB-11 | Optimasi & Testing | High | Pending |
 
 ---
 
-# 📊 LOG TUGAS 2 MINGGU
+# 📊 LOG TUGAS SCRUM BERIKUTNYA
 
 | Minggu | Fokus | Status Target |
 |--------|--------|--------------|
-| Week 1 | Konsep & AR Setup | Project siap dikembangkan |
+| Week 2 | Konsep & AR Setup | Project siap dikembangkan |
 | Week 2 | Simulasi Banjir Aktif | Prototype AR berjalan |
 
 ---
@@ -80,7 +72,7 @@ Deliverables:
 
 ---
 
-# 📌 PERENCANAAN MINGGU DEPAN (WEEK 3)
+# 📌 PERENCANAAN BERIKUTNYA
 
 | Fokus | Tugas | PIC |
 |--------|--------|------|
